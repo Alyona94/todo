@@ -11,4 +11,4 @@ docker rm shorturl
 
 
 ## Документация:
-- Swagger UI: `http://localhost:8000/docs` (или порт, который вы пробросили)
+- Swagger UI: `http://localhost:8000/docs`
